@@ -1,10 +1,11 @@
 # R Exercises Repository
 
-This repository is a growing collection of programming exercises, data analysis examples, and mini-projects written in **R**.
+This repository is a growing collection of programming exercises, data analysis examples, and mini-projects written in **R**. Most exercises are taken from Tilman M. Davies' _The Book of R. A First Course in Programming and Statistics (No Starch Press - 2016)._
 
 ## Folder Structure
 
 - `basics/`: R syntax, variables, control structures.
+- `arithmetic/`: Basic mathematical operations
 - `data_structures/`: Vectors, lists, matrices, data frames.
 - `statistics/`: Descriptive and inferential statistics.
 - `data_analysis`: Use of `tydiverse`, data wrangling, and visualizations.
